@@ -22,7 +22,7 @@ import java.util.*;
  * 
  * Each time a point is added, deleted or moved, a comma-separated list of coordinates
  * is printed to the console; this text can be copied and pasted as a parameter list
- * for the city.cs.engine.PolygonShape(float... coords) constructor BUT you
+ * for the cityengine.PolygonShape(float... coords) constructor BUT you
  * will have problems if the polygon is not convex (remember though that a Body
  * can have multiple shapes, so you can get pretty much any shaped body by using
  * overlapping convex polygons).
