@@ -23,7 +23,7 @@ This project was originally worked on from November 2022 to April 2023. See the 
 
 ## Version History 
 
-The version history is missing some commits, as this project originates from my personal account. This repository will be infrequently updated for edits made to the version on my personal account.
+The version history is missing some commits, as this project originates from my GitHub personal account. This repository will be infrequently updated for edits made to the version on my personal account.
 
 ## Entry Point
 
