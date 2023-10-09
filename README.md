@@ -10,6 +10,8 @@
 
 This is a side-scrolling 2D platformer created with IntelliJ IDEA and written in Java. The program uses the CityEngine40 library and mp3spi, the latter of which requires: jlayer, junit and tritonus dependencies. Libraries have been included in the 'libraries' folder. Thoroughly tested on MacOS but may exhibit visual discrepancies on Windows.
 
+This project was originally worked on from November 2022 to April 2023. See the Version History section below.
+
 ## Installation
 
 <ol>
