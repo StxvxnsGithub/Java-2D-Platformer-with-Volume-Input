@@ -19,6 +19,10 @@ This is a side-scrolling 2D platformer created with IntelliJ IDEA and written in
   <li>Contribute or test!</li>
 </ol>
 
+## Version History 
+
+The version history is missing some commits, as this project originates from my personal account. This repository will be infrequently updated for edits made to the version on my personal account.
+
 ## Entry Point
 
 The entry point is located at the bottom of the 'Game.java' class found at /src/game/Game.java
